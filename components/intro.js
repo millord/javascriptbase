@@ -7,7 +7,7 @@ export default function Intro() {
         JS Ninja Freelancer
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Blog for you who is looking get into tech
+        Tips for getting into tech for non-coders
       </h4>
     </section>
   );
