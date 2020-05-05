@@ -4,7 +4,7 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 coverImage: "/assets/blog/preview/react.jpeg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Joe Haddad
+  name: Juan Millord
   picture: "/assets/blog/authors/millord.jpg"
 ogImage:
   url: "/assets/blog/preview/cover2.jpg"
