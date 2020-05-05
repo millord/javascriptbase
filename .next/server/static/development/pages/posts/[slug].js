@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 5);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -446,7 +446,7 @@ function Footer() {
       columnNumber: 11
     }
   }, __jsx("a", {
-    href: "https://nextjs.org/docs/basic-features/pages",
+    href: "https://juanmillordportfolio.netlify.app/",
     className: "mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0",
     __self: this,
     __source: {
@@ -455,7 +455,7 @@ function Footer() {
       columnNumber: 13
     }
   }, "Ve mi portafolio"), __jsx("a", {
-    href: `https://github.com/zeit/next.js/tree/canary/examples/${_lib_constants__WEBPACK_IMPORTED_MODULE_2__["EXAMPLE_PATH"]}`,
+    href: `https://github.com/millord`,
     className: "mx-3 font-bold hover:underline",
     __self: this,
     __source: {
@@ -463,7 +463,7 @@ function Footer() {
       lineNumber: 19,
       columnNumber: 13
     }
-  }, "View on GitHub")))));
+  }, "Ver mi GitHub")))));
 }
 
 /***/ }),
@@ -556,15 +556,7 @@ function Layout({
       lineNumber: 9,
       columnNumber: 7
     }
-  }, __jsx(_components_alert__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    preview: preview,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 9
-    }
-  }), __jsx("main", {
+  }, __jsx("main", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -3026,7 +3018,7 @@ async function getStaticPaths() {
 
 /***/ }),
 
-/***/ 3:
+/***/ 5:
 /*!*************************************!*\
   !*** multi ./pages/posts/[slug].js ***!
   \*************************************/

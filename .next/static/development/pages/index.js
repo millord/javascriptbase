@@ -315,7 +315,7 @@ function Footer() {
       columnNumber: 11
     }
   }, __jsx("a", {
-    href: "https://nextjs.org/docs/basic-features/pages",
+    href: "https://juanmillordportfolio.netlify.app/",
     className: "mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0",
     __self: this,
     __source: {
@@ -324,7 +324,7 @@ function Footer() {
       columnNumber: 13
     }
   }, "Ve mi portafolio"), __jsx("a", {
-    href: "https://github.com/zeit/next.js/tree/canary/examples/".concat(_lib_constants__WEBPACK_IMPORTED_MODULE_2__["EXAMPLE_PATH"]),
+    href: "https://github.com/millord",
     className: "mx-3 font-bold hover:underline",
     __self: this,
     __source: {
@@ -332,7 +332,7 @@ function Footer() {
       lineNumber: 19,
       columnNumber: 13
     }
-  }, "View on GitHub")))));
+  }, "Ver mi GitHub")))));
 }
 
 /***/ }),
@@ -512,7 +512,7 @@ function Intro() {
       lineNumber: 6,
       columnNumber: 7
     }
-  }, "JS Ninja Freelancer"), __jsx("h4", {
+  }, "JS Zen Freelancer"), __jsx("h4", {
     className: "text-center md:text-left text-lg mt-5 md:pl-8",
     __self: this,
     __source: {
@@ -520,7 +520,7 @@ function Intro() {
       lineNumber: 9,
       columnNumber: 7
     }
-  }, "Blog for you who is looking get into tech"));
+  }, "Tips for getting into tech for non-coders"));
 }
 
 /***/ }),
@@ -564,15 +564,7 @@ function Layout(_ref) {
       lineNumber: 9,
       columnNumber: 7
     }
-  }, __jsx(_components_alert__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    preview: preview,
-    __self: this,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 10,
-      columnNumber: 9
-    }
-  }), __jsx("main", {
+  }, __jsx("main", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -23195,7 +23187,7 @@ function Index(_ref) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!**********************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fjuanmillord%2FDesktop%2Fhard-parts%2Fnext%2Fmyblog%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \**********************************************************************************************************************************************************************/
@@ -23218,5 +23210,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

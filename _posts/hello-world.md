@@ -4,7 +4,7 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Tim Neutkens
+  name: Juan Millord
   picture: "/assets/blog/authors/millord.jpeg"
 ogImage:
   url: "/assets/blog/preview/cover2.jpg"
