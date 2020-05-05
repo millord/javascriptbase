@@ -520,7 +520,7 @@ function Intro() {
       lineNumber: 9,
       columnNumber: 7
     }
-  }, "JavaScript Tips for non-coders"));
+  }, "UI Design and Algorithms Tips for non-coders"));
 }
 
 /***/ }),

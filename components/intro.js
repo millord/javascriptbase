@@ -7,7 +7,7 @@ export default function Intro() {
         Zen-lancer
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        JavaScript Tips for non-coders
+        UI Design and Algorithms Tips for non-coders
       </h4>
     </section>
   );
