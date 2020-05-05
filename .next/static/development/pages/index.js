@@ -276,7 +276,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function Footer() {
   return __jsx("footer", {
-    className: "bg-accent-1 border-t border-accent-2",
+    className: "bg-teal-600 border-t border-accent-2",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -306,7 +306,7 @@ function Footer() {
       lineNumber: 9,
       columnNumber: 11
     }
-  }, "Statically Generated with Next.js."), __jsx("div", {
+  }, "Learn how to Code, Change Your Life"), __jsx("div", {
     className: "flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2",
     __self: this,
     __source: {
@@ -323,7 +323,7 @@ function Footer() {
       lineNumber: 13,
       columnNumber: 13
     }
-  }, "Ve mi portafolio"), __jsx("a", {
+  }, "See My Portfolio"), __jsx("a", {
     href: "https://github.com/millord",
     className: "mx-3 font-bold hover:underline",
     __self: this,
@@ -332,7 +332,7 @@ function Footer() {
       lineNumber: 19,
       columnNumber: 13
     }
-  }, "Ver mi GitHub")))));
+  }, "See My GitHub")))));
 }
 
 /***/ }),
@@ -497,7 +497,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 function Intro() {
   return __jsx("section", {
-    className: "flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12",
+    className: "flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12 ",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -512,7 +512,7 @@ function Intro() {
       lineNumber: 6,
       columnNumber: 7
     }
-  }, "JS Zen Freelancer"), __jsx("h4", {
+  }, "Zen-lancer"), __jsx("h4", {
     className: "text-center md:text-left text-lg mt-5 md:pl-8",
     __self: this,
     __source: {
@@ -520,7 +520,7 @@ function Intro() {
       lineNumber: 9,
       columnNumber: 7
     }
-  }, "Tips for getting into tech for non-coders"));
+  }, "JavaScript Tips for non-coders"));
 }
 
 /***/ }),
@@ -23187,7 +23187,7 @@ function Index(_ref) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!**********************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fjuanmillord%2FDesktop%2Fhard-parts%2Fnext%2Fmyblog%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \**********************************************************************************************************************************************************************/
@@ -23210,5 +23210,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
