@@ -35,7 +35,7 @@ function Intro() {
       columnNumber: 7
     }
   }, "Zen-lancer"), __jsx("h4", {
-    className: "font-black text-blue-500 text-center md:text-left text-lg mt-5 md:pl-8",
+    className: "tracking-tight font-black text-blue-500 text-center md:text-left text-lg mt-5 md:pl-8",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -48,4 +48,4 @@ function Intro() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.c3e84c8a7f58dfa479bd.hot-update.js.map
+//# sourceMappingURL=index.js.86525dc4c7d26eb89377.hot-update.js.map
