@@ -6,7 +6,7 @@ export default function Intro() {
       <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
         Zen-lancer
       </h1>
-      <h4 className="tracking-tight font-normal text-blue-500 text-center md:text-left text-lg mt-5 md:pl-8">
+      <h4 className="tracking-tight font-normal capitalize text-blue-500 text-center md:text-left text-lg mt-5 md:pl-8">
         UI Design and Algorithms Tips for non-coders
       </h4>
     </section>
