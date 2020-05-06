@@ -512,7 +512,7 @@ function Intro() {
       lineNumber: 6,
       columnNumber: 7
     }
-  }, "zen-JS"), __jsx("h4", {
+  }, "ZEN-JS"), __jsx("h4", {
     className: "tracking-tight font-normal capitalize text-blue-500 text-center md:text-left text-lg mt-5 md:pl-8",
     __self: this,
     __source: {

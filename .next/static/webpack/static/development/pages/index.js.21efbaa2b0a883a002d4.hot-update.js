@@ -27,14 +27,14 @@ function Intro() {
       columnNumber: 5
     }
   }, __jsx("h1", {
-    className: "text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8",
+    className: "text-6xl md:text-8xl font-bold tracking-tighter leading-relaxed md:pr-8",
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6,
       columnNumber: 7
     }
-  }, "zen-js"), __jsx("h4", {
+  }, "ZEN-JS"), __jsx("h4", {
     className: "tracking-tight font-normal capitalize text-blue-500 text-center md:text-left text-lg mt-5 md:pl-8",
     __self: this,
     __source: {
@@ -48,4 +48,4 @@ function Intro() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.ab04f2ccd117f4ae0d89.hot-update.js.map
+//# sourceMappingURL=index.js.21efbaa2b0a883a002d4.hot-update.js.map
