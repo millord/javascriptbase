@@ -61,7 +61,7 @@ function Footer() {
     }
   }, __jsx("a", {
     href: "https://juanmillordportfolio.netlify.app/",
-    className: "mx-3 bg-black hover:bg-white hover:text-blue border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0",
+    className: "mx-3 bg-black hover:bg-white hover:text-blue-800 border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0",
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -83,4 +83,4 @@ function Footer() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.21efbaa2b0a883a002d4.hot-update.js.map
+//# sourceMappingURL=index.js.1026d58e3ec0dfc5a7f9.hot-update.js.map
