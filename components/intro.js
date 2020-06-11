@@ -7,7 +7,7 @@ export default function Intro() {
         ZEN-JS
       </h1>
       <h4 className="tracking-tight font-normal capitalize text-blue-500 text-center md:text-left text-lg mt-5 md:pl-8">
-        Algorítmos para no desarrolladores
+        Algorítmos y más para no desarrolladores
       </h4>
     </section>
   );
