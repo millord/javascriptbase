@@ -2,7 +2,7 @@
 title: "Editando tu primara App de Angular"
 excerpt: " En este post seguiremos lo que inicamos en le post anterior sobre Angular, donde editaremos el nuestra app ya generada."
 coverImage: "/assets/blog/angular/editing.png"
-date: "2020-06-09T06:35:07.322Z"
+date: "2020-06-21T06:35:07.322Z"
 author:
   name: Juan Millord
   picture: "/assets/blog/authors/millord.jpg"
