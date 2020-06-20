@@ -2,7 +2,7 @@
 title: "Empezar tu primer App en Angular"
 excerpt: "Angular es un Framework de Google el cual es muy
 usado en empresas grades, si quieres aprender de este Framework... sigue leyendo."
-coverImage: "/assets/blog/angular/angular.png"
+coverImage: "/assets/blog/angular/smallerAngular.png"
 date: "2020-06-20T06:35:07.322Z"
 author:
   name: Juan Millord
